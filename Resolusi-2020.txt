@@ -1,11 +1,11 @@
-RESOLUSI 2020 FATHIMAU
+====== RESOLUSI 2020 FATHIMAU ======
 
-1. Kuasai Bahasa Java, OOP nya, dan Android
-2. Kuasai Web Programming, Back End, dan Front Endnya
-3. Punya SIM Mobil
-4. Selalu Ingat Akhirat, Perbanyak Beribadah
-5. Kurangi Main Sosmed
-6. Be Beauty, Be Confident
-7. Jadi Diri Sendiri
-8. Bahagia Selalu
-9. Bisa Nyari Uang
+- Kuasai Bahasa Java, OOP nya, dan Android
+- Kuasai Web Programming, Back End, dan Front Endnya
+- Punya SIM Mobil
+- Selalu Ingat Akhirat, Perbanyak Beribadah
+- Kurangi Main Sosmed
+- Be Beauty, Be Confident
+- Jadi Diri Sendiri
+- Bahagia Selalu
+- Bisa Nyari Uang
