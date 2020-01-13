@@ -1,4 +1,4 @@
-RESOLUSI 2020 FATHIMAU
+====== RESOLUSI 2020 FATHIMAU ======
 
 - Kuasai Bahasa Java, OOP nya, dan Android
 - Kuasai Web Programming, Back End, dan Front Endnya
